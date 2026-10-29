@@ -1,6 +1,6 @@
-# Contributing to OpenMuse
+# Contributing to OpenMuse+
 
-OpenMuse is an MIT-licensed alpha. Contributions should make delegated work reliable and visible, with honest connector status and useful native interactions.
+OpenMuse+ is an MIT-licensed alpha. Contributions should make delegated work reliable and visible, with honest connector status and useful native interactions.
 
 ## Local development
 
